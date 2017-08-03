@@ -1,0 +1,9 @@
+{
+  "name": "uc-build-support",
+  "version": "0.2.0",
+  "description": "UC JavaScript Build Support",
+  "private": true,
+  "devDependencies": {
+    "pnpm": "1.9.0"
+  }
+}
